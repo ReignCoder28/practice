@@ -1,0 +1,14 @@
+p{
+    color:rgb(81, 54, 106);
+    font-weight: bold;
+}
+
+
+@font-face {
+    font-family: choko_shake;
+    src: url('choko_shake.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'ChokoShake', sans-serif;
+
+}
